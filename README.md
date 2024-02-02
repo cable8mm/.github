@@ -1,3 +1,3 @@
-# Cable8mm - Community Health Files
+# Cable8mm - Github Action Files
 
-This repository contains profile and the default github action files for the other repositories.
+This repository contains the default github action files for the other repositories.
